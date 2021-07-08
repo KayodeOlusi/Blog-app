@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": " Web dev tools tips",
+      "body": "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus adipisci ex, perspiciatis laboriosam beatae id voluptas at ipsa delectus facere anim",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": " Welcome to the party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus adipisci ex, perspiciatis laboriosam beatae id volupt",
+      "author": "Yoshi",
+      "id": 2
+    }
+  ]
+}
